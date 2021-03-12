@@ -270,9 +270,9 @@ module.exports = {
           const lowerValenceBound = audioFeatures.data.valence - .5;
           if (normalizedWeather.sun > lowerValenceBound && normalizedWeather.sun < upperValenceBound) {
 
-            const upperDanceBound = audioFeatures.data.danceability + .5;
-            const lowerDanceBound = audioFeatures.data.danceability - .5;
-            if (normalizedWeather.clouds > lowerDanceBound && normalizedWeather.clouds < upperDanceBound) {
+            // const upperDanceBound = audioFeatures.data.danceability + .5;
+            // const lowerDanceBound = audioFeatures.data.danceability - .5;
+            // if (normalizedWeather.clouds > lowerDanceBound && normalizedWeather.clouds < upperDanceBound) {
 
               const upperAcousticBound = audioFeatures.data.acousticness + .5;
               const lowerAcousticBound = audioFeatures.data.acousticness - .5;
@@ -284,7 +284,7 @@ module.exports = {
                   console.log("adding a track!")
                   selectedTracks.push(track.uri);
                 }
-              }
+              //}
             }
           }
         }
