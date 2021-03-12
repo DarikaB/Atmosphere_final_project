@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Atmosphere_final_project/static/css/main.992304c5.chunk.css",
+    "main.js": "/Atmosphere_final_project/static/js/main.3561d854.chunk.js",
+    "main.js.map": "/Atmosphere_final_project/static/js/main.3561d854.chunk.js.map",
+    "runtime-main.js": "/Atmosphere_final_project/static/js/runtime-main.c38ca631.js",
+    "runtime-main.js.map": "/Atmosphere_final_project/static/js/runtime-main.c38ca631.js.map",
+    "static/css/2.150d169a.chunk.css": "/Atmosphere_final_project/static/css/2.150d169a.chunk.css",
+    "static/js/2.4fb90e30.chunk.js": "/Atmosphere_final_project/static/js/2.4fb90e30.chunk.js",
+    "static/js/2.4fb90e30.chunk.js.map": "/Atmosphere_final_project/static/js/2.4fb90e30.chunk.js.map",
+    "index.html": "/Atmosphere_final_project/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/Atmosphere_final_project/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.992304c5.chunk.css.map": "/Atmosphere_final_project/static/css/main.992304c5.chunk.css.map",
+    "static/js/2.4fb90e30.chunk.js.LICENSE.txt": "/Atmosphere_final_project/static/js/2.4fb90e30.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c38ca631.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.4fb90e30.chunk.js",
+    "static/css/main.992304c5.chunk.css",
+    "static/js/main.3561d854.chunk.js"
+  ]
+}
